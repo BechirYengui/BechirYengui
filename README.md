@@ -1,20 +1,19 @@
+<!-- HEADER — type=waving is the most reliable capsule-render type -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=240&section=header&text=Bechir%20Yengui&fontSize=75&fontColor=00fff0&fontAlignY=38&desc=Generalist%20IT%20Engineer%20%E2%80%94%20Software%20%7C%20Embedded%20%7C%20Cybersecurity%20%7C%20Systems&descSize=16&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=220&section=header&text=Bechir%20Yengui&fontSize=72&fontColor=e0aaff&fontAlignY=40&desc=Generalist%20IT%20Engineer%20%7C%20Software%20%C2%B7%20Embedded%20%C2%B7%20Cybersecurity%20%C2%B7%20Systems&descSize=17&descAlignY=62&descColor=c77dff&animation=twinkling" width="100%"/>
-
-<br/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=720&lines=Generalist+IT+Engineer+%7C+IMT+Atlantique+%2B+SUP%27COM;C%2B%2B17%2F20+%7C+Embedded+Linux+%7C+Real-Time+Systems;V2X+%7C+ITS-G5+%7C+Cybersecurity+%7C+PKI+%7C+IDS%2FIPS;Building+CrossPath+%26+JuniorTech+from+scratch;Open+to+opportunities+worldwide" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00FFF0&center=true&vCenter=true&width=740&lines=Generalist+IT+Engineer+%7C+IMT+Atlantique+%2B+SUP%27COM;C%2B%2B17%2F20+%7C+Embedded+Linux+%7C+Real-Time+Architecture;V2X+ITS-G5+%7C+Cybersecurity+%7C+PKI+%7C+IDS%2FIPS+Snort3;Building+CrossPath+%26+JuniorTech+from+scratch;Open+to+opportunities+worldwide" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bechir-yengui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-c77dff?style=for-the-badge&logo=vercel&logoColor=white)](https://bechiryengui.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bechir.yengui5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BechirYengui)
-![Profile Views](https://komarev.com/ghpvc/?username=BechirYengui&style=for-the-badge&color=c77dff&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bechir-yengui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00fff0?style=for-the-badge&logo=vercel&logoColor=black)](https://bechiryengui.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bechir.yengui5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BechirYengui)
+![Views](https://komarev.com/ghpvc/?username=BechirYengui&style=for-the-badge&color=00fff0&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
 
@@ -25,9 +24,9 @@
 ## 🧬 About Me
 
 ```yaml
-# =========================================================
+# =================================================================
 #   BECHIR YENGUI  --  Generalist IT Engineer
-# =========================================================
+# =================================================================
 
 identity:
   name      : "Bechir Yengui"
@@ -37,29 +36,27 @@ identity:
 
 education:
   - degree : "Diplome Ingenieur Generaliste"
-    school : "IMT Atlantique -- Telecom Bretagne"
+    school : "IMT Atlantique  --  Telecom Bretagne"
     period : "2023 - 2025"
-    focus  : "Software  |  Embedded Systems  |  Cybersecurity"
+    specs  : "Software  |  Embedded Systems  |  Cybersecurity"
 
   - degree : "Ingenieur en Technologies de l Information"
     school : "SUPCOM Tunisia"
     period : "2021 - 2023"
-    focus  : "Telecoms  |  Networks  |  Signal Processing"
+    specs  : "Telecoms  |  Networks  |  Signal Processing"
 
 expertise:
-  software_engineering : [ "C++17/20", "System Design", "Distributed Arch", "CI/CD", "gRPC"  ]
-  embedded_realtime    : [ "STM32", "FreeRTOS", "Embedded Linux", "V2X ITS-G5", "Qt", "Yocto" ]
-  cybersecurity        : [ "PKI", "IDS/IPS Snort3", "RSA-2048", "Pentesting", "TLS 1.3"       ]
-  networks_protocols   : [ "5G", "CAN", "UART", "SPI", "MQTT", "gRPC", "TCP-IP", "Wireshark"  ]
-  devops_toolchain     : [ "Docker", "GitLab CI", "Jenkins", "CMake", "PostgreSQL", "Git"      ]
+  software_engineering  : [ "C++17/20", "System Design", "Distributed Arch", "CI/CD", "gRPC"  ]
+  embedded_and_realtime : [ "STM32", "FreeRTOS", "Embedded Linux", "V2X ITS-G5", "Qt", "Yocto" ]
+  cybersecurity         : [ "PKI", "IDS/IPS Snort3", "RSA-2048", "Pentesting", "TLS 1.3"       ]
+  networks_protocols    : [ "5G", "CAN", "UART", "SPI", "MQTT", "gRPC", "TCP-IP", "Wireshark"  ]
+  devops_toolchain      : [ "Docker", "GitLab CI", "Jenkins", "CMake", "PostgreSQL", "Git"      ]
 
-building:
-  CrossPath  : "Geolocation travel social app   -> https://crospath.app"
-  JuniorTech : "Recruitment platform for grads  -> https://juniorjob.vercel.app"
+side_projects:
+  CrossPath  : "Geolocation travel social app      ->  https://crospath.app"
+  JuniorTech : "Recruitment platform for graduates  ->  https://juniorjob.vercel.app"
 
-mission: >
-  Polyvalent IT engineer with a double grande ecole degree.
-  I design systems that are reliable, secure, and built to last.
+mission: "Polyvalent IT engineer. I design systems that are reliable, secure, and built to last."
 ```
 
 <br/>
@@ -70,51 +67,56 @@ mission: >
 
 <div align="center">
 
-**-- Languages --**
+### 💻 Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-543DE0?style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![VHDL](https://img.shields.io/badge/VHDL-543DE0?style=flat-square&logoColor=white)&nbsp;
+![Assembly](https://img.shields.io/badge/Assembly_ARM-525252?style=flat-square&logoColor=white)
 
-**-- Embedded & Real-Time --**
+### ⚙️ Embedded & Real-Time
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8DC63F?style=for-the-badge&logoColor=white)
-![Yocto](https://img.shields.io/badge/Yocto-6a1b9a?style=for-the-badge&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)&nbsp;
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8DC63F?style=flat-square&logoColor=white)&nbsp;
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+![Yocto](https://img.shields.io/badge/Yocto-6a1b9a?style=flat-square&logoColor=white)&nbsp;
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)&nbsp;
+![FPGA](https://img.shields.io/badge/FPGA-CC0000?style=flat-square&logoColor=white)
 
-**-- Cybersecurity --**
+### 🔐 Cybersecurity
 
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort3%20IDS%2FIPS-CC0000?style=for-the-badge&logoColor=white)
-![PKI](https://img.shields.io/badge/PKI%20%26%20RSA--2048-00897B?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![TLS](https://img.shields.io/badge/TLS%201.3%20%2F%20VPN-4a148c?style=for-the-badge&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white)
+![Snort3](https://img.shields.io/badge/Snort3_IDS%2FIPS-CC0000?style=flat-square&logoColor=white)&nbsp;
+![PKI](https://img.shields.io/badge/PKI_%26_RSA--2048-00897B?style=flat-square&logoColor=white)&nbsp;
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)&nbsp;
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)&nbsp;
+![TLS](https://img.shields.io/badge/TLS_1.3-4a148c?style=flat-square&logoColor=white)&nbsp;
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logoColor=white)&nbsp;
+![VPN](https://img.shields.io/badge/VPN_%2F_Firewall-37474f?style=flat-square&logoColor=white)
 
-**-- Protocols & Communication --**
+### 🌐 Protocols & Communication
 
-![V2X](https://img.shields.io/badge/V2X%20ITS--G5-0288D1?style=for-the-badge&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN%20Bus-F57C00?style=for-the-badge&logoColor=white)
-![UART](https://img.shields.io/badge/UART%20%2F%20SPI%20%2F%20I2C-546E7A?style=for-the-badge&logoColor=white)
-![5G](https://img.shields.io/badge/5G%20%2F%20MQTT%20%2F%20gRPC-00BCD4?style=for-the-badge&logoColor=white)
-![TCP](https://img.shields.io/badge/TCP--IP%20%2F%20UDP-1565C0?style=for-the-badge&logoColor=white)
+![V2X](https://img.shields.io/badge/V2X_ITS--G5-0288D1?style=flat-square&logoColor=white)&nbsp;
+![CAN](https://img.shields.io/badge/CAN_Bus-F57C00?style=flat-square&logoColor=white)&nbsp;
+![UART](https://img.shields.io/badge/UART_%2F_SPI_%2F_I2C-546E7A?style=flat-square&logoColor=white)&nbsp;
+![5G](https://img.shields.io/badge/5G_%2F_MQTT-00BCD4?style=flat-square&logoColor=white)&nbsp;
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logoColor=white)&nbsp;
+![TCP](https://img.shields.io/badge/TCP--IP_%2F_UDP-1565C0?style=flat-square&logoColor=white)
 
-**-- DevOps & Toolchain --**
+### 🚀 DevOps & Toolchain
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;
+![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)&nbsp;
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -128,33 +130,33 @@ mission: >
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 &nbsp; VEDECOM &nbsp;·&nbsp; Alternance
-**Sept 2024 – Sept 2025 &nbsp;|&nbsp; Versailles**
-*Software & Embedded Engineer*
+### 🚗 VEDECOM — Alternance
+**`Sept 2024 – Sept 2025` · Versailles**
+*Software & Embedded Systems Engineer*
 
-> Distributed OTA system across **50+ connected vehicles**
+> Distributed OTA architecture across **50+ connected vehicles**
 
-- ⚡ Update time reduced **65%** via IPFS + ThingsBoard + V2X
-- 📡 3 V2V modules (Wi-Fi / 5G / ITS-G5) — **10 Hz**, latency **< 50 ms**
-- 🔐 RSA-2048 + Snort3 IDS/IPS — **95%** attack detection rate
-- 🛡️ MitM simulation, DoS resistance at **1000 req/s**, PKI audits
-- 🔄 24 Agile sprints — team velocity **+30%**
+- ⚡ Update time **↓65%** — IPFS + ThingsBoard + V2X
+- 📡 3 V2V modules Wi-Fi/5G/ITS-G5 — **10 Hz**, latency **< 50 ms**
+- 🔐 RSA-2048 + Snort3 IDS/IPS — **95%** attack detection
+- 🛡️ MitM & DoS simulation (**1000 req/s**), PKI audits
+- 🔄 24 Agile sprints — velocity **+30%**
 
 `C++` `V2X` `ITS-G5` `gRPC` `IPFS` `Snort3` `PKI` `CAN` `UART`
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 &nbsp; VEDECOM &nbsp;·&nbsp; Stage
-**Avr 2024 – Août 2024 &nbsp;|&nbsp; Versailles**
+### 📱 VEDECOM — Stage
+**`Avr – Août 2024` · Versailles**
 *Software & IoT Engineer*
 
-> Android app for an embedded TCU in a connected vehicle
+> Android app interfacing an embedded TCU in a connected vehicle
 
-- 📲 **10,000+ lines** Android app interfaced with vehicle hardware
-- 🔒 OTA pipeline: Bluetooth 5.0 / TLS 1.3 / HTTPS / MQTTS
+- 📲 **10,000+ lines** Android app — vehicle hardware integration
+- 🔒 OTA stack: Bluetooth 5.0 / TLS 1.3 / HTTPS / MQTTS
 - 📊 3 real-time telemetry dashboards — diagnostics **40% faster**
-- ✅ **35+ unit tests**, 55% coverage, embedded to cloud validation
+- ✅ **35+ unit tests**, 55% coverage, embedded ↔ cloud validation
 
 `Android` `Java` `TLS` `Docker` `OpenSSL` `PostgreSQL` `MQTTS`
 
@@ -163,11 +165,11 @@ mission: >
 <tr>
 <td width="50%" valign="top">
 
-### 🏭 &nbsp; PRIMATEC Engineering &nbsp;·&nbsp; Stage
-**Juin 2023 – Août 2023 &nbsp;|&nbsp; Tunisia**
+### 🏭 PRIMATEC Engineering — Stage
+**`Juin – Août 2023` · Tunisia**
 *Software Developer*
 
-> RFID attendance system for 200+ employees
+> RFID badge system for 200+ employees
 
 - 💳 C++ on Raspberry Pi — **99% recognition rate**
 - 🌐 Flask web app — automated reports, **60% time saved**
@@ -178,17 +180,17 @@ mission: >
 </td>
 <td width="50%" valign="top">
 
-### 🎓 &nbsp; Education
+### 🎓 Education
 
-**IMT Atlantique** — Télécom Bretagne &nbsp;`2023–2025`
+🏛️ **IMT Atlantique** — Télécom Bretagne `2023–2025`
 Diplôme Ingénieur Généraliste
-*Software · Embedded · Cybersecurity*
+*Software · Embedded Systems · Cybersecurity*
 
-**SUP'COM Tunisia** &nbsp;`2021–2023`
+🏛️ **SUP'COM Tunisia** `2021–2023`
 Ingénieur en Technologies de l'Information
 *Telecoms · Networks · Signal Processing*
 
-**IPEIS Sfax** &nbsp;`2019–2021`
+📐 **IPEIS Sfax** `2019–2021`
 *Mathématiques & Physique — Classes Prépa*
 
 🏅 TOEIC **865/990** &nbsp;·&nbsp; IELTS **6.0**
@@ -204,55 +206,78 @@ Ingénieur en Technologies de l'Information
 ## 🚀 Featured Projects
 
 <div align="center">
-
 <table width="100%">
 <tr>
 
 <td width="33%" align="center" valign="top">
+<br/>
 
-### 🌍 CrossPath
+**🌍 CrossPath**
+
 *Geolocation Travel Social App*
 
-Connect solo travelers in real-time — geolocation matching, activity creation, instant messaging, trip crossing detection
+<br/>
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+Connect solo travelers by geolocation — real-time messaging, activity creation, trip crossing detection
+
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000?style=flat-square&logo=mapbox)
+![Mapbox](https://img.shields.io/badge/Mapbox-1a1a1a?style=flat-square&logo=mapbox&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**[→ crospath.app](https://crospath.app)**
+<br/>
+
+**[🔗 crospath.app](https://crospath.app)**
 
 </td>
 
 <td width="33%" align="center" valign="top">
+<br/>
 
-### 💼 JuniorTech
+**💼 JuniorTech**
+
 *Graduate Recruitment Platform*
+
+<br/>
 
 Job board + application pipeline + social community + QCM contests + smart CV guide for fresh engineers
 
+<br/>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**[→ juniorjob.vercel.app](https://juniorjob.vercel.app)**
+<br/>
+
+**[🔗 juniorjob.vercel.app](https://juniorjob.vercel.app)**
 
 </td>
 
 <td width="33%" align="center" valign="top">
+<br/>
 
-### 🖥️ Qt STM32 HMI
+**🖥️ Qt / STM32 HMI**
+
 *Embedded Control Interface*
 
-C++/Qt HMI for real-time STM32 monitoring & control — MVC architecture, serial communication layer, QThread
+<br/>
+
+C++/Qt IHM for real-time STM32 monitoring & control — MVC architecture, QThread, serial communication layer
+
+<br/>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+
+<br/>
 
 *UART · DMA · Interrupts · QSerialPort*
 
@@ -260,7 +285,6 @@ C++/Qt HMI for real-time STM32 monitoring & control — MVC architecture, serial
 
 </tr>
 </table>
-
 </div>
 
 <br/>
@@ -271,22 +295,18 @@ C++/Qt HMI for real-time STM32 monitoring & control — MVC architecture, serial
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=BechirYengui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=c77dff&icon_color=c77dff&text_color=e0aaff"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BechirYengui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=BechirYengui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00fff0&icon_color=00fff0&text_color=ffffff&bg_color=0D1117"/>
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BechirYengui&layout=compact&theme=tokyonight&hide_border=true&title_color=00fff0&text_color=ffffff&bg_color=0D1117&langs_count=8"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BechirYengui&theme=tokyonight&hide_border=true&background=0d0221&stroke=c77dff&ring=c77dff&fire=ff6b6b&currStreakLabel=c77dff&sideLabels=e0aaff&dates=9d9dbd"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BechirYengui&theme=tokyonight&hide_border=true&background=0D1117&ring=00fff0&fire=00c9ff&currStreakLabel=00fff0&stroke=00fff0&sideLabels=ffffff&dates=888888"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BechirYengui&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=c77dff&line=7b2ff7&point=e0aaff&area=true&area_color=7b2ff7" width="96%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BechirYengui&theme=react-dark&hide_border=true&bg_color=0D1117&color=00fff0&line=00c9ff&point=ffffff&area=true" width="97%"/>
 </div>
 
 <br/>
@@ -298,12 +318,12 @@ C++/Qt HMI for real-time STM32 monitoring & control — MVC architecture, serial
 <div align="center">
 
 | | |
-|:---|:---|
-| 🎯 **Roles** | Software Engineer (C++ / Systems / Real-Time) · Embedded Systems Engineer · Cybersecurity / DevSecOps Engineer |
+|:--|:--|
+| 🎯 **Target Roles** | Software Engineer (C++ / Systems / Real-Time) · Embedded Systems Engineer · Cybersecurity / DevSecOps |
 | 🏭 **Sectors** | Automotive · Aerospace · Defense · Fintech · Telecoms · Robotics · IoT |
-| 📍 **Location** | France · Europe · Remote · **Open to relocation worldwide** |
-| 📅 **Status** | Available immediately · APS work authorization (France) |
-| 💬 **Languages** | French (C1) · English (B2+) · Arabic (native) |
+| 📍 **Location** | France · Europe · Remote · **Open to relocation worldwide 🌍** |
+| 📅 **Availability** | Immediately · APS work authorization (France) |
+| 💬 **Languages** | 🇫🇷 French C1 · 🇬🇧 English B2+ · 🇹🇳 Arabic native |
 
 </div>
 
@@ -315,24 +335,18 @@ C++/Qt HMI for real-time STM32 monitoring & control — MVC architecture, serial
 
 <div align="center">
 
-<a href="https://linkedin.com/in/bechir-yengui">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://bechiryengui.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-c77dff?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:bechir.yengui5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bechir-yengui)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00fff0?style=for-the-badge&logo=vercel&logoColor=black)](https://bechiryengui.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bechir.yengui5@gmail.com)
 
 <br/><br/>
 
 > *"Build systems that are reliable, secure, and made to last."*
 
-</div>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b69,100:0d0221&height=130&section=footer&reversal=false" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&reversal=true" width="100%"/>
