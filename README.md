@@ -31,37 +31,39 @@
 #include <map>
 #include <iostream>
 
+class GeneralistITEngineer {};
+
 class BechirYengui : public GeneralistITEngineer {
 public:
 
-    // ── Identity ────────────────────────────────────────────────────────────
-    const std::string name       = "Bechir Yengui";
-    const std::string location   = "Versailles, France — open to relocation worldwide";
-    const std::string status     = "Available immediately | APS work authorization";
-    const std::string languages  = "French (C1) | English (B2+) | Arabic (native)";
+    // --- Identity -----------------------------------------------------------
+    const std::string name      = "Bechir Yengui";
+    const std::string location  = "Versailles, France - open to relocation worldwide";
+    const std::string status    = "Available immediately | APS work authorization";
+    const std::string languages = "French (C1) | English (B2+) | Arabic (native)";
 
-    // ── Education ───────────────────────────────────────────────────────────
+    // --- Education ----------------------------------------------------------
     const std::vector<std::string> education = {
-        "IMT Atlantique (Telecom Bretagne) — Diplome Ingenieur Generaliste, 2023-2025",
-        "SUPCOM Tunisia — Ingenieur en Technologies de l'Information,  2021-2023"
+        "IMT Atlantique (Telecom Bretagne) - Diplome Ingenieur Generaliste, 2023-2025",
+        "SUPCOM Tunisia - Ingenieur en Technologies de l Information, 2021-2023"
     };
 
-    // ── Expertise ───────────────────────────────────────────────────────────
+    // --- Expertise ----------------------------------------------------------
     const std::map<std::string, std::vector<std::string>> expertise = {
-        { "Software Engineering",  { "C++17/20", "System Design", "Distributed Arch", "CI/CD", "gRPC" } },
-        { "Embedded & Real-Time",  { "STM32", "FreeRTOS", "Linux Embarque", "V2X ITS-G5", "Qt" } },
-        { "Cybersecurity",         { "PKI", "IDS/IPS Snort3", "RSA-2048", "Pentesting", "TLS 1.3" } },
-        { "Networks & Protocols",  { "5G", "CAN", "UART", "MQTT", "TCP-IP", "Wireshark" } },
-        { "DevOps & Toolchain",    { "Docker", "GitLab CI", "Jenkins", "CMake", "PostgreSQL" } }
+        { "Software Engineering",  { "C++17/20", "System Design", "Distributed Arch", "CI/CD", "gRPC"      } },
+        { "Embedded & Real-Time",  { "STM32", "FreeRTOS", "Linux Embarque", "V2X ITS-G5", "Qt"             } },
+        { "Cybersecurity",         { "PKI", "IDS/IPS Snort3", "RSA-2048", "Pentesting", "TLS 1.3"          } },
+        { "Networks & Protocols",  { "5G", "CAN", "UART", "MQTT", "TCP-IP", "Wireshark"                    } },
+        { "DevOps & Toolchain",    { "Docker", "GitLab CI", "Jenkins", "CMake", "PostgreSQL"                } }
     };
 
-    // ── Side projects ───────────────────────────────────────────────────────
+    // --- Side Projects ------------------------------------------------------
     const std::vector<std::string> building = {
-        "CrossPath  — Geolocation travel social app  (React Native / Next.js / Supabase)",
-        "JuniorTech — Recruitment platform for fresh graduates (Node.js / Prisma / Docker)"
+        "CrossPath  - Geolocation travel social app (React Native / Next.js / Supabase)",
+        "JuniorTech - Recruitment platform for fresh graduates (Node.js / Prisma / Docker)"
     };
 
-    // ── Mission ─────────────────────────────────────────────────────────────
+    // --- Mission ------------------------------------------------------------
     void introduce() const {
         std::cout << "Polyvalent IT engineer. I build systems that are"
                   << " reliable, secure, and made to last." << std::endl;
