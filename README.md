@@ -28,41 +28,15 @@
 
 ## 🧬 About Me
 
-```yaml
-# =================================================================
-#   BECHIR YENGUI  --  Generalist IT Engineer
-# =================================================================
+I'm a **Generalist IT Engineer** graduated from **IMT Atlantique (Télécom Bretagne)** and **SUP'COM Tunisia** — double grande école degree specializing in Software Engineering, Embedded Systems, and Cybersecurity.
 
-identity:
-  name      : "Bechir Yengui"
-  location  : "Versailles, France  |  open to relocation worldwide"
-  status    : "Available immediately  |  APS work authorization (France)"
-  languages : "French C1  |  English B2+  |  Arabic native"
+I design and build systems that are **reliable, real-time, and secure** — from low-level C++ embedded architectures and V2X communication protocols to distributed systems and cybersecurity pipelines. My background spans the full stack of a connected, intelligent system: hardware interfaces, real-time OS, network protocols, security layers, and CI/CD automation.
 
-education:
-  - degree : "Diplome Ingenieur Generaliste"
-    school : "IMT Atlantique  --  Telecom Bretagne"
-    period : "2023 - 2025"
-    specs  : "Software  |  Embedded Systems  |  Cybersecurity"
+Beyond my engineering work, I'm the founder of two side projects:
+- 🌍 **[CrossPath](https://crospath.app)** — a geolocation travel social app connecting solo travelers in real time
+- 💼 **[JuniorTech](https://juniorjob.vercel.app)** — a recruitment platform built for fresh graduates
 
-  - degree : "Ingenieur en Technologies de l Information"
-    school : "SUPCOM Tunisia"
-    period : "2021 - 2023"
-    specs  : "Telecoms  |  Networks  |  Signal Processing"
-
-expertise:
-  software_engineering  : [ "C++17/20", "System Design", "Distributed Arch", "CI/CD", "gRPC"  ]
-  embedded_and_realtime : [ "STM32", "FreeRTOS", "Embedded Linux", "V2X ITS-G5", "Qt", "Yocto" ]
-  cybersecurity         : [ "PKI", "IDS/IPS Snort3", "RSA-2048", "Pentesting", "TLS 1.3"       ]
-  networks_protocols    : [ "5G", "CAN", "UART", "SPI", "MQTT", "gRPC", "TCP-IP", "Wireshark"  ]
-  devops_toolchain      : [ "Docker", "GitLab CI", "Jenkins", "CMake", "PostgreSQL", "Git"      ]
-
-side_projects:
-  CrossPath  : "Geolocation travel social app      ->  https://crospath.app"
-  JuniorTech : "Recruitment platform for graduates  ->  https://juniorjob.vercel.app"
-
-mission: "Polyvalent IT engineer. I design systems that are reliable, secure, and built to last."
-```
+📍 Based in Versailles, France · Open to relocation worldwide · Available immediately
 
 <br/>
 
