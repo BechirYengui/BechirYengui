@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bechir%20Yengui&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Generalist%20IT%20Engineer%20%E2%80%94%20Software%20%7C%20Embedded%20%7C%20Cybersecurity%20%7C%20Full-Stack&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bechir%20Yengui&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Generalist%20IT%20Engineer%20%E2%80%94%20Software%20%7C%20Embedded%20%7C%20Cybersecurity%20%7C%20Systems&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Generalist+IT+Engineer+%F0%9F%8E%93+IMT+Atlantique+%2B+SUP%27COM;C%2B%2B+%7C+Embedded+%7C+Cybersecurity+%7C+Full-Stack;Distributed+Systems+%7C+Real-Time+%7C+V2X+%7C+IoT;Building+CrossPath+%F0%9F%8C%8D+%26+JuniorTech+%F0%9F%9A%80;Open+to+opportunities+worldwide+%F0%9F%8C%90;Software+Engineer+%7C+Systems+%7C+Security+%7C+Product" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Generalist+IT+Engineer+%7C+IMT+Atlantique+%2B+SUP%27COM;C%2B%2B+%7C+Embedded+Systems+%7C+Cybersecurity;Distributed+Systems+%7C+Real-Time+%7C+V2X+%7C+IoT;Building+CrossPath+and+JuniorTech;Open+to+opportunities+worldwide;Software+%7C+Systems+%7C+Security+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,31 +26,45 @@
 ## 🧬 About Me
 
 ```cpp
+#include <string>
+#include <vector>
+#include <map>
+#include <iostream>
+
 class BechirYengui : public GeneralistITEngineer {
 public:
-    std::string location    = "Versailles, France 🇫🇷 · Open to relocate worldwide 🌍";
-    std::string status      = "Available immediately · APS work authorization (France)";
 
-    std::map<std::string, std::vector<std::string>> expertise = {
-        { "Software Engineering",  { "C++17/20", "System Design", "Distributed Architectures", "CI/CD" } },
-        { "Embedded & Real-Time",  { "STM32", "FreeRTOS", "V2X/ITS-G5", "Linux Embarqué", "Qt" } },
-        { "Cybersecurity",         { "PKI", "IDS/IPS", "Cryptography", "Pentesting", "TLS" } },
-        { "Full-Stack & Product",  { "React Native", "Next.js", "Supabase", "Node.js", "Docker" } },
-        { "Networks & Protocols",  { "5G", "CAN", "gRPC", "MQTT", "TCP/IP", "Wireshark" } }
+    // ── Identity ────────────────────────────────────────────────────────────
+    const std::string name       = "Bechir Yengui";
+    const std::string location   = "Versailles, France — open to relocation worldwide";
+    const std::string status     = "Available immediately | APS work authorization";
+    const std::string languages  = "French (C1) | English (B2+) | Arabic (native)";
+
+    // ── Education ───────────────────────────────────────────────────────────
+    const std::vector<std::string> education = {
+        "IMT Atlantique (Telecom Bretagne) — Diplome Ingenieur Generaliste, 2023-2025",
+        "SUPCOM Tunisia — Ingenieur en Technologies de l'Information,  2021-2023"
     };
 
-    std::vector<std::string> education = {
-        "🎓 IMT Atlantique (Télécom Bretagne) — Diplôme Ingénieur Généraliste",
-        "🎓 SUP'COM Tunisia — Ingénieur en Technologies de l'Information"
+    // ── Expertise ───────────────────────────────────────────────────────────
+    const std::map<std::string, std::vector<std::string>> expertise = {
+        { "Software Engineering",  { "C++17/20", "System Design", "Distributed Arch", "CI/CD", "gRPC" } },
+        { "Embedded & Real-Time",  { "STM32", "FreeRTOS", "Linux Embarque", "V2X ITS-G5", "Qt" } },
+        { "Cybersecurity",         { "PKI", "IDS/IPS Snort3", "RSA-2048", "Pentesting", "TLS 1.3" } },
+        { "Networks & Protocols",  { "5G", "CAN", "UART", "MQTT", "TCP-IP", "Wireshark" } },
+        { "DevOps & Toolchain",    { "Docker", "GitLab CI", "Jenkins", "CMake", "PostgreSQL" } }
     };
 
-    std::vector<std::string> building = {
-        "CrossPath 🌍 — Geolocation travel social app (React Native / Next.js / Supabase)",
-        "JuniorTech 💼 — Recruitment platform for fresh graduates"
+    // ── Side projects ───────────────────────────────────────────────────────
+    const std::vector<std::string> building = {
+        "CrossPath  — Geolocation travel social app  (React Native / Next.js / Supabase)",
+        "JuniorTech — Recruitment platform for fresh graduates (Node.js / Prisma / Docker)"
     };
 
-    void sayHello() {
-        std::cout << "Polyvalent, driven, and ready to build what matters." << std::endl;
+    // ── Mission ─────────────────────────────────────────────────────────────
+    void introduce() const {
+        std::cout << "Polyvalent IT engineer. I build systems that are"
+                  << " reliable, secure, and made to last." << std::endl;
     }
 };
 ```
@@ -101,10 +115,11 @@ public:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📱 Frontend / Full-Stack
+### 🛠️ Side Projects Stack
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
@@ -210,16 +225,15 @@ Ingénieur en Technologies de l'Information
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  🎯 Target Roles                                                             ║
-║     Software Engineer (C++ / Systems / Backend)                              ║
-║     Embedded & Real-Time Systems Engineer                                    ║
+║  Target Roles                                                                ║
+║     Software Engineer  (C++ / Systems / Backend / Real-Time)                 ║
+║     Embedded Systems Engineer  (Linux / RTOS / V2X / IoT)                   ║
 ║     Cybersecurity / DevSecOps Engineer                                       ║
-║     Full-Stack / Product Engineer                                            ║
-║     → Automotive · Aerospace · Defense · Fintech · Telecoms · Robotics       ║
+║     Sectors: Automotive · Aerospace · Defense · Fintech · Telecoms · Robotics║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  📍 Location   France · Europe · Remote · Open to relocation worldwide 🌍   ║
-║  📅 Status     Available immediately · APS work authorization (France)       ║
-║  💬 Languages  French (C1) · English (B2+) · Arabic (native)                ║
+║  Location   France · Europe · Remote · Open to relocation worldwide          ║
+║  Status     Available immediately · APS work authorization (France)          ║
+║  Languages  French (C1) · English (B2+) · Arabic (native)                   ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
