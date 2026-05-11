@@ -33,8 +33,8 @@ I'm a **Generalist IT Engineer** graduated from **IMT Atlantique (Télécom Bret
 I design and build systems that are **reliable, real-time, and secure** — from low-level C++ embedded architectures and V2X communication protocols to distributed systems and cybersecurity pipelines. My background spans the full stack of a connected, intelligent system: hardware interfaces, real-time OS, network protocols, security layers, and CI/CD automation.
 
 Beyond my engineering work, I'm the founder of two side projects:
-- 🌍 **[CrossPath](https://crospath.app)** — a geolocation travel social app connecting solo travelers in real time
-- 💼 **[JuniorTech](https://juniorjob.vercel.app)** — a recruitment platform built for fresh graduates
+- 🌍 **[CrosPath](https://crospath.app)** — a geolocation travel social app connecting solo travelers in real time
+- 💼 **[JuniorTech](https://juniortech.fr)** — a recruitment platform built for fresh graduates
 
 📍 Based in Versailles, France · Open to relocation worldwide · Available immediately
 
@@ -191,7 +191,7 @@ Ingénieur en Technologies de l'Information
 <td width="33%" align="center" valign="top">
 <br/>
 
-**🌍 CrossPath**
+**🌍 CrosPath**
 
 *Geolocation Travel Social App*
 
