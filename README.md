@@ -234,7 +234,7 @@ Job board + application pipeline + social community + QCM contests + smart CV gu
 
 <br/>
 
-**[juniorjob.vercel.app](https://juniorjob.vercel.app)**
+**[juniortech.fr](https://juniortech.fr)**
 
 </td>
 
