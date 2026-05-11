@@ -34,7 +34,7 @@ I design and build systems that are **reliable, real-time, and secure** — from
 
 Beyond my engineering work, I'm the founder of two side projects:
 - 🌍 **[CrossPath](https://crospath.app)** — a geolocation travel social app connecting solo travelers in real time
-- 💼 **[JuniorTech](https://juniorjob.vercel.app)** — a recruitment platform built for fresh graduates
+- 💼 **[JuniorTech](https://juniortech.fr)** — a recruitment platform built for fresh graduates
 
 📍 Based in Versailles, France · Open to relocation worldwide · Available immediately
 
