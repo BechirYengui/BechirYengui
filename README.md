@@ -28,9 +28,9 @@
 
 ## 🧬 About Me
 
-I'm a **Generalist IT Engineer** graduated from **IMT Atlantique (Télécom Bretagne)** and **SUP'COM Tunisia** — double grande école degree specializing in Software Engineering, Embedded Systems, and Cybersecurity.
+I'm a **Generalist IT Engineer** graduated from **IMT Atlantique (Télécom Bretagne)** and **SUP'COM Tunisia** — double grande école degree specializing in Software Engineering, Real Time Systems, and Cybersecurity.
 
-I design and build systems that are **reliable, real-time, and secure** — from low-level C++ embedded architectures and V2X communication protocols to distributed systems and cybersecurity pipelines. My background spans the full stack of a connected, intelligent system: hardware interfaces, real-time OS, network protocols, security layers, and CI/CD automation.
+I design and build systems that are **reliable, real-time, and secure** — from low-level C++  architectures and V2X communication protocols to distributed systems and cybersecurity pipelines. My background spans the full stack of a connected, intelligent system: real-time OS, network protocols, security layers, and CI/CD automation.
 
 Beyond my engineering work, I'm the founder of two side projects:
 - 🌍 **[CrosPath](https://crospath.app)** — a geolocation travel social app connecting solo travelers in real time
