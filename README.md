@@ -30,14 +30,14 @@
 
 ## 🧬 About Me
 
-I'm a **Software Engineer** graduated from **IMT Atlantique (Télécom Bretagne)** and **SUP'COM Tunisia** — double grande école degree specializing in Software Engineering and Cybersecurity.
+I'm a **Software Engineer** graduated from **IMT Atlantique (Télécom Bretagne)** and **SUP'COM Tunisia**  double grande école degree specializing in Software Engineering and Cybersecurity.
 
-I design and build systems that are **robust, scalable, and secure** — across the full backend and infrastructure lifecycle: analysis, design, development, testing, and deployment on Linux. From low-latency C++/Python services and distributed systems to cloud-native microservices on Kubernetes, with DevOps practices (Docker, CI/CD, cloud) and applied cybersecurity baked in. Co-author of a **peer-reviewed scientific publication** on secure OTA update chains.
+I design and build systems that are **robust, scalable, and secure**  across the full backend and infrastructure lifecycle: analysis, design, development, testing, and deployment on Linux. From low-latency C++/Python services and distributed systems to cloud-native microservices on Kubernetes, with DevOps practices (Docker, CI/CD, cloud) and applied cybersecurity baked in. Co-author of a **peer-reviewed scientific publication** on secure OTA update chains.
 
 Beyond my engineering work, I'm the founder of two side projects:
 
-- 🌍 **[CrosPath](https://crospath.app)** — a geolocation travel social app connecting solo travelers in real time
-- 💼 **[JuniorTech](https://juniortech.fr)** — a recruitment platform built for fresh graduates
+- 🌍 **[CrosPath](https://crospath.app)**  a geolocation travel social app connecting solo travelers in real time
+- 💼 **[JuniorTech](https://juniortech.fr)**  a recruitment platform built for fresh graduates
 
 📍 Based in Versailles, France · Open to relocation worldwide · Available immediately
 
